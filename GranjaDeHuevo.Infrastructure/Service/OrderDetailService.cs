@@ -1,6 +1,7 @@
 ﻿using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
 using GranjaDeHuevo.Domain.Interface.Repository;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Context;
 using System;
 using System.Collections.Generic;
@@ -8,14 +9,12 @@ using System.Threading.Tasks;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class OrderDetailService : BaseService<OrderDetails>
+    public class OrderDetailService : BaseService<OrderDetails>, IOrderDetailService
     {
         private readonly IOrderDetailsRepository _orderDetailsRepository;
-        private readonly AppGranjaDeHuevoContext _context;
         public OrderDetailService(IOrderDetailsRepository orderDetailsRepository, AppGranjaDeHuevoContext context) : base(orderDetailsRepository, context)
         {
             _orderDetailsRepository = orderDetailsRepository;
-            _context = context;
         }
 
         public List<OrderDetailsDTO> GetOrderDetails()

@@ -2,7 +2,7 @@
 using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
 using GranjaDeHuevo.Domain.Interface.Repository;
-using GranjaDeHuevo.Infrastructure.Service;
+using GranjaDeHuevo.Domain.Interface.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -14,13 +14,13 @@ namespace GranjaDeHuevo.API.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly UserService _userService;
-        private readonly TokenService _tokenService;
-        private readonly PasswordHasherService _passwordHasherService;
+        private readonly IUserService _userService;
+        private readonly ITokenService _tokenService;
+        private readonly IPasswordHasherService _passwordHasherService;
         private readonly IUsersRepository _userRepository;
         private readonly IMapper _mapper;
 
-        public UsersController(UserService userService, TokenService tokenService, PasswordHasherService passwordHasherService, IUsersRepository usersRepository, IMapper mapper)
+        public UsersController(IUserService userService, ITokenService tokenService, IPasswordHasherService passwordHasherService, IUsersRepository usersRepository, IMapper mapper)
         {
             _userService = userService;
             _tokenService = tokenService;

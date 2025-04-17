@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GranjaDeHuevo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb53f252c41eeafd2e8c44497288eadb7232f530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3589ebca7666e310c62ab17d522ce796351604aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("GranjaDeHuevo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GranjaDeHuevo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

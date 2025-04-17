@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -13,10 +14,10 @@ namespace GranjaDeHuevo.API.Controllers
     [ApiController]
     public class InventoryController : Controller
     {
-        private readonly InventoryService _inventoryService;
+        private readonly IInventoryService _inventoryService;
         private readonly IMapper _mapper;
 
-        public InventoryController(InventoryService inventoryService, IMapper mapper)
+        public InventoryController(IInventoryService inventoryService, IMapper mapper)
         {
             _inventoryService = inventoryService;
             _mapper = mapper;

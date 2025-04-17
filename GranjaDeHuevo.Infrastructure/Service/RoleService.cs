@@ -1,6 +1,7 @@
 ﻿using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
 using GranjaDeHuevo.Domain.Interface.Repository;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Context;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class RoleService : BaseService<Role>
+    public class RoleService : BaseService<Role>, IRoleService
     {
         private readonly IRoleRepository _roleRepository;
         public RoleService(IRoleRepository respository, AppGranjaDeHuevoContext context) : base(respository, context)

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -13,9 +14,9 @@ namespace GranjaDeHuevo.API.Controllers
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        private readonly OrderService _orderService;
+        private readonly IOrderService _orderService;
         private readonly IMapper _mapper;
-        public OrdersController(OrderService orderService, IMapper mapper)
+        public OrdersController(IOrderService orderService, IMapper mapper)
         {
             _orderService = orderService;
             _mapper = mapper;

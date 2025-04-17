@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -13,10 +14,10 @@ namespace GranjaDeHuevo.API.Controllers
     [ApiController]
     public class RoleController : ControllerBase
     {
-        private readonly RoleService _roleService;
+        private readonly IRoleService _roleService;
         private readonly IMapper _mapper;
 
-        public RoleController(RoleService roleService, IMapper mapper)
+        public RoleController(IRoleService roleService, IMapper mapper)
         {
             _roleService = roleService;
             _mapper = mapper;
