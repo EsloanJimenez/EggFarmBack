@@ -1,0 +1,17 @@
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.deps.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.runtimeconfig.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.runtimeconfig.dev.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.dll
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.pdb
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Domain.dll
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\bin\Release\netcoreapp3.1\GranjaDeHuevo.Domain.pdb
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.csproj.AssemblyReference.cache
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.AssemblyInfoInputs.cache
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.AssemblyInfo.cs
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.sourcelink.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDe.BEDB3A81.Up2Date
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.dll
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.pdb
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Infrastructure\obj\Release\netcoreapp3.1\GranjaDeHuevo.Infrastructure.genruntimeconfig.cache

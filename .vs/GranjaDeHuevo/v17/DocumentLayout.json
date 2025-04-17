@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 451,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Startup.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Startup.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Startup.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:59:06.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\appsettings.json",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\appsettings.json",
+              "RelativeToolTip": "GranjaDeHuevo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T21:32:50.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

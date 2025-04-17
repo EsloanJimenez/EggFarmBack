@@ -1,0 +1,10 @@
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\bin\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.deps.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\bin\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.dll
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\bin\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.pdb
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.AssemblyInfoInputs.cache
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.AssemblyInfo.cs
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.sourcelink.json
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.dll
+D:\Cursos\ITSC\Prueba de software\GranjaDeHuevo\GranjaDeHuevo.Domain\obj\Debug\netcoreapp3.1\GranjaDeHuevo.Domain.pdb
