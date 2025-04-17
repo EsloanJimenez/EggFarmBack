@@ -1,4 +1,5 @@
 ﻿using GranjaDeHuevo.Domain.Entity;
+using GranjaDeHuevo.Domain.Interface.Service;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -8,7 +9,7 @@ using System.Text;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class TokenService
+    public class TokenService : ITokenService
     {
         private readonly IConfiguration _configuration;
         public TokenService(IConfiguration configuration)

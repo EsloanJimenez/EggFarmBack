@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System;
+using GranjaDeHuevo.Domain.Interface.Service;
 
 namespace GranjaDeHuevo.API.Controllers
 {
@@ -14,9 +15,9 @@ namespace GranjaDeHuevo.API.Controllers
     public class ProductsController : Controller
     {
         
-            private readonly ProductService _productService;
+            private readonly IProductService _productService;
             private readonly IMapper _mapper;
-            public ProductsController(ProductService productService, IMapper mapper)
+            public ProductsController(IProductService productService, IMapper mapper)
             {
                 _productService = productService;
                 _mapper = mapper;

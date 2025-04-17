@@ -1,10 +1,11 @@
 ﻿using GranjaDeHuevo.Domain.Interface.Repository;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Context;
 using System.Threading.Tasks;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class BaseService<TEntity> where TEntity : class
+    public class BaseService<TEntity> : IBaseService<TEntity> where TEntity : class
     {
         private readonly IBaseRespository<TEntity> _repository;
         private readonly AppGranjaDeHuevoContext _context;

@@ -1,6 +1,7 @@
 ﻿using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
 using GranjaDeHuevo.Domain.Interface.Repository;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Context;
 using GranjaDeHuevo.Infrastructure.Repository;
 using System;
@@ -9,15 +10,13 @@ using System.Threading.Tasks;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class CustomerService : BaseService<Customers>
+    public class CustomerService : BaseService<Customers>, ICustomerService
     {
         private readonly ICustomersRepository _customersRepository;
-        private readonly AppGranjaDeHuevoContext _context;
 
         public CustomerService(ICustomersRepository customersRepository, AppGranjaDeHuevoContext context) : base(customersRepository, context)
         {
             _customersRepository = customersRepository;
-            _context = context;
         }
 
         public List<CustomersDTO> GetCustomers()

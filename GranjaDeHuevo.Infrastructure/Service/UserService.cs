@@ -1,6 +1,7 @@
 ﻿using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
 using GranjaDeHuevo.Domain.Interface.Repository;
+using GranjaDeHuevo.Domain.Interface.Service;
 using GranjaDeHuevo.Infrastructure.Context;
 using System;
 using System.Collections.Generic;
@@ -8,15 +9,13 @@ using System.Threading.Tasks;
 
 namespace GranjaDeHuevo.Infrastructure.Service
 {
-    public class UserService : BaseService<Users>
+    public class UserService : BaseService<Users>, IUserService
     {
         private readonly IUsersRepository _usersRepository;
-        private readonly AppGranjaDeHuevoContext _context;
 
         public UserService(IUsersRepository usersRepository, AppGranjaDeHuevoContext context) : base(usersRepository, context)
         {
             _usersRepository = usersRepository;
-            _context = context;
         }
 
         public List<UserDTO> GetUsers()

@@ -3,23 +3,160 @@
   "WorkspaceRootPath": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.infrastructure\\service\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67659A2-41D0-409E-BCAD-5D553F9C6048}|GranjaDeHuevo.Infrastructure\\GranjaDeHuevo.Infrastructure.csproj|solutionrelative:granjadehuevo.infrastructure\\service\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.domain\\interface\\service\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BD2B5B-20CB-4D00-A3EB-6902C9741FA2}|GranjaDeHuevo.Domain\\GranjaDeHuevo.Domain.csproj|solutionrelative:granjadehuevo.domain\\interface\\service\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|d:\\cursos\\itsc\\prueba de software\\granjadehuevo\\granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32D40332-197A-46F5-A419-BF4DE13F5CB8}|GranjaDeHuevo.API\\GranjaDeHuevo.API.csproj|solutionrelative:granjadehuevo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 451,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 920,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IBaseService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IBaseService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IBaseService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:38:04.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1046,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\ITokenService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\ITokenService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\ITokenService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:56:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:52:23.56Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -30,28 +167,292 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IOrderDetailService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IOrderDetailService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:29:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IOrderService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IOrderService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:37:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IProductService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IProductService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:39:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IRoleService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IRoleService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IRoleService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:41:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IUserService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:44:56.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\IInventoryService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\IInventoryService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:46:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Domain\\Interface\\Service\\ICustomerService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Domain\\Interface\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Domain\\Interface\\Service\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:41:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Startup.cs",
               "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Startup.cs",
               "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Startup.cs",
               "RelativeToolTip": "GranjaDeHuevo.API\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T22:59:06.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T22:59:06.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\appsettings.json",
               "RelativeDocumentMoniker": "GranjaDeHuevo.API\\appsettings.json",
               "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\appsettings.json",
               "RelativeToolTip": "GranjaDeHuevo.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T21:32:50.934Z",
+              "WhenOpened": "2025-04-16T21:32:50.934Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1450,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\TokenService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\TokenService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:55:58.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:55:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:55:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:54:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:54:21.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:54:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.API\\Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.API\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "GranjaDeHuevo.API\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:53:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\UserService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\UserService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:44:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\RoleService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\RoleService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:41:49.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\ProductService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:39:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\OrderService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\OrderService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:38:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\OrderDetailService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\OrderDetailService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\OrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:28:59.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\InventoryService.cs",
+              "RelativeDocumentMoniker": "GranjaDeHuevo.Infrastructure\\Service\\InventoryService.cs",
+              "ToolTip": "D:\\Cursos\\ITSC\\Prueba de software\\GranjaDeHuevo\\GranjaDeHuevo.Infrastructure\\Service\\InventoryService.cs",
+              "RelativeToolTip": "GranjaDeHuevo.Infrastructure\\Service\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:46:14.901Z",
               "EditorCaption": ""
             }
           ]

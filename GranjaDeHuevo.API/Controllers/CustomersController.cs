@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using GranjaDeHuevo.Domain.DTOs;
 using GranjaDeHuevo.Domain.Entity;
-using GranjaDeHuevo.Infrastructure.Service;
+using GranjaDeHuevo.Domain.Interface.Service;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,9 +13,9 @@ namespace GranjaDeHuevo.API.Controllers
     [ApiController]
     public class CustomersController : ControllerBase
     {
-        private readonly CustomerService _customersService;
+        private readonly ICustomerService _customersService;
         private readonly IMapper _mapper;
-        public CustomersController(CustomerService customerService, IMapper mapper)
+        public CustomersController(ICustomerService customerService, IMapper mapper)
         {
             _customersService = customerService;
             _mapper = mapper;
